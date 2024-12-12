@@ -180,6 +180,20 @@ Soporte para Herramientas Modernas: Node.js es compatible con muchas herramienta
 Rendimiento: Gracias a su motor V8 de Google, Node.js ofrece un rendimiento rápido y eficiente, lo que es crucial para aplicaciones que requieren alta velocidad y capacidad de respuesta.
 
 ### Motor de Base de datos
+- [Autotaxis Bolivar](#autotaxis-bolivar)
+  - [Caso problema](#caso-problema)
+  - [Brief](#brief)
+    - [Exploración de la Estructura de Datos y Diseño Inicial](#exploración-de-la-estructura-de-datos-y-diseño-inicial)
+    - [Diseño de la Interfaz de Usuario y Gestión de Fondos](#diseño-de-la-interfaz-de-usuario-y-gestión-de-fondos)
+    - [Explicación:](#explicación)
+  - [POC](#poc)
+    - [Stack tecnológico](#stack-tecnológico)
+    - [PowerBI - Dashboard tiempo real](#powerbi---dashboard-tiempo-real)
+      - [Flutter - mobile](#flutter---mobile)
+      - [Backend - nodejs](#backend---nodejs)
+    - [Motor de Base de datos](#motor-de-base-de-datos)
+    - [Diagrama alto nivel arquitectura](#diagrama-alto-nivel-arquitectura)
+  - [Referencias](#referencias)
 
 PostgreSQL es una de las bases de datos relacionales más robustas y avanzadas que existen, y es particularmente conocida por cumplir con el modelo ACID, lo que la hace adecuada para aplicaciones que requieren transacciones seguras y consistentes.
 
